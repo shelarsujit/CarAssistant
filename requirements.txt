@@ -1,0 +1,7 @@
+langgraph
+langchain_openai
+requests
+python-dotenv
+flask
+SpeechRecognition 
+pyttsx3
